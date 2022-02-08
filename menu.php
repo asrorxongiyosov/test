@@ -37,7 +37,7 @@ if (isset($_POST['food_id']) && isset($_POST['add'])) {
 </head>
 
 <body>
-
+    <h1>Git</h1>
     <div class="container">
         <!-- Navbar start-->
         <nav class="navbar navbar-expand-lg navbar-light bg-light">
